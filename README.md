@@ -1,1 +1,2 @@
-# Pirates
+A fun exercise to practice OOP, inheritance, Arrays, Lists and more...
+Adding pirates on a ship, making one a captian, having them fight or work, thus gaining riches or losing health points (even dying!) - fun practice:)
